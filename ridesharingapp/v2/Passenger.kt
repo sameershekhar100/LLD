@@ -5,4 +5,5 @@ data class Passenger(
     override val name:String,
     override val email: String,
     override val location: Location
-):User(name,email ,location )
+):User(name,email ,location ){
+}
