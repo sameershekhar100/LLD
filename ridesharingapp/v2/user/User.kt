@@ -1,4 +1,6 @@
-package lld.ridesharingapp.v2
+package lld.ridesharingapp.v2.user
+
+import lld.ridesharingapp.v2.Location
 
 abstract class User(
      open val name: String,

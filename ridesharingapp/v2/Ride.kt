@@ -1,5 +1,8 @@
 package lld.ridesharingapp.v2
 
+import lld.ridesharingapp.v2.user.Driver
+import lld.ridesharingapp.v2.user.Passenger
+
 enum class RideStatus {
     SCHEDULED, ONGOING, COMPLETED
 }

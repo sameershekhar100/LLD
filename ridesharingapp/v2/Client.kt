@@ -1,5 +1,7 @@
 package lld.ridesharingapp.v2
 
+import lld.ridesharingapp.v2.user.Driver
+import lld.ridesharingapp.v2.user.Passenger
 import lld.ridesharingapp.v2.vehicle.Bike
 import lld.ridesharingapp.v2.vehicle.Car
 
